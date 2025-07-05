@@ -1,0 +1,27 @@
+const heros = ["shaktiman" , "naagraj" , "doga"]; //this is an array
+
+//this is object : here we save data in the form of key value pair
+let myObj = {
+    name: "hitesh",
+    age:22,
+     
+}
+const myFunction = function(){
+    console.log("heello world");
+}
+
+// type of val : result
+// undefined    : undefined
+// boolean    : boolean
+// numver     : number
+// string     : string
+// object     : object   
+// (native and does not implement call)
+
+
+
+// object (native host and implement call) : function
+
+
+/* stack stores primitive data type - yha value ka copy milta hai  */ 
+/* heap non - primitive data type store karate h - yaha value ka reference milta h , object heap mempry me store hota h*/
